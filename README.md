@@ -6,13 +6,13 @@
 
 暂定的大致结构：
 
-学习交流
+[学习交流](/study)
 
-- 效率软件
-- 科学研究
-- 技术交流
-- [优秀网站博客](/study/website)
-- 等等等等
+- [效率软件](/study/software.md)
+- [科学研究](/study/research.md)
+- [技术交流](/study/technology.md)
+- [优秀网站博客](/study/website.md)
+- 等等等等 TODO
 
 
 [毕业生](/graduate)
