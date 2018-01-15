@@ -1,4 +1,4 @@
-# research-book-of-110
+# Life of Lab 110
 
 基于github构建一个实验室交流平台
 
