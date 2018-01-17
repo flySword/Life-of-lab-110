@@ -121,7 +121,6 @@
 
 ### 百度网盘
 
-### QGis （ArcGIS的替代）
 
 ### 视频播放
 
@@ -147,3 +146,17 @@ servlet（托管GIS服务器）--Tomcat、Jetty...
 
 客户端--ArcMAP、QGIS、Grass GIS...
 
+### 软件打包工具
+WiSe（编写代码可实现同样功能）
+
+
+### 流程图
+Microsoft Visio 2010
+
+
+### 查看依赖
+Depends（插件无法加载时，查看动态库之间的相互依赖，不仅仅局限于VC++）
+
+
+### NodeJS
+Node.js（实现JavaScript可以跑在服务端的神器，是JavaScript一统天下的阶梯）
