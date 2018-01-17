@@ -19,3 +19,20 @@ http://echarts.baidu.com/
 ### 生活
 
 https://www.lifehack.org
+
+
+### WebGIS
+
+开放地理信息联盟主页
+http://www.opengeospatial.org/
+
+地球科学信息联盟主页
+http://www.cgi-iugs.org/home.html
+
+### WebGIS+GeoScience
+
+OneGeology
+http://www.onegeology.org/
+
+USGIN
+https://github.com/usgin?page=1
