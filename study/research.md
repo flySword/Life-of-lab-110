@@ -64,8 +64,7 @@ Reading a paper is not the same as reading a blogpost or a novel. Here are a few
 
 # 个人观点
 
-局限于不同的学术方向和学术水平，上面提到的各种方法仅供参考。
-
+局限于不同的学术方向和学术水平，上面提到的各种方法仅供参考。 如施一公提到的Nikola Pavletich，并不大量阅读论文和经常参加会议。[原文](http://blog.sciencenet.cn/home.php?mod=space&uid=46212&do=blog&id=486270)
 
 # 实验室方向常见期刊
 
