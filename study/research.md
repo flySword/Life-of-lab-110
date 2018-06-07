@@ -1,29 +1,28 @@
 
 # 目标
 
-提供关于学术论文阅读的资料和某些个人意见，降低在论文阅读上的踩坑。
+降低在论文阅读上的踩坑。
 
+- 论文阅读
+- 论文检索
+- 论文写作
+- 个人观点
+- 实验室方向常见期刊
 
 # TODO list
 
-- how to retrieve papers
-- how to read a paper
-- software of management and analysis（暂不管）
-
-
-
-
+- [ ] 一些个人观点和简单总结
+- [ ] 论文检索相关资料(引文分析等)
+- [ ] 相关资料补全
+- [ ] 期刊
 
 # How To Read a Paper
 
-## Todo List
+## 知乎
 
-- [] 一些其他的资料
-- [] 一些简单的总结和个人见解（如某些方式不适合测绘或者计算方向）
+[知乎 哪些阅读论文的好习惯让你受益无穷？](https://www.zhihu.com/question/35930686/answer/66146943)
 
-
-
-### from https://github.com/papers-we-love/papers-we-love
+## from https://github.com/papers-we-love/papers-we-love
 
 Reading a paper is not the same as reading a blogpost or a novel. Here are a few handy resources to help you get started.
 
@@ -34,11 +33,46 @@ Reading a paper is not the same as reading a blogpost or a novel. Here are a few
 * [The Refreshingly Rewarding Realm of Research Papers](https://www.youtube.com/watch?v=8eRx5Wo3xYA)
 
 
-## 文章检索
+# 文章检索
 
-几大学术搜索引擎和出版商
+几大学术搜索引擎
+
+- google/bing/baidu/microsoft 学术
+- web of science
+
+几大出版社
+
+- SpringerLink
+- ScienceDirect
+- Nature
+- Taylor & Francis
+
+某些其它
+
+- ProQuest 硕博论文
+- ResearchGate 学术加社交
+- Sci-Hub 俄罗斯某著名盗版网站
+
 
 引文分析工具
 
-俄罗斯某著名盗版网站
 
+# 论文写作
+
+[知乎 如何开始写英文论文？](https://www.zhihu.com/question/23684933)
+
+
+# 个人观点
+
+局限于不同的学术方向和学术水平，上面提到的各种方法仅供参考。
+
+
+# 实验室方向常见期刊
+
+## GIS
+
+## RS
+
+## CS
+
+## Geology
