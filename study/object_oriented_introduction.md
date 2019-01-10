@@ -304,6 +304,8 @@ A1 *a1 = new A1();
 a1->fun1();
 ```
 
+***
+
 ### 多态
 
 多态(由于子类肯定有基类的函数）
@@ -338,23 +340,6 @@ class BoyFriend:public Friend{
 
 ***
 
-### 通过多态提高代码的通用性
-
-函数定义时只依赖抽象的Friend类（marry函数为纯虚函数，行为由子类定义）
-
-对于男朋友、女朋友通用（还可以根据需要传入其它）
-
-可以把基类当做是能指向所有子类的万能类型
-
-```c++
-void datingAndMarry(Friend *friend){
-  friend->dating(); 
-  friend->marry();
-}
-```
-
-***
-
 ### 没有多态
 
 就只能对每个具体类都写一个函数。
@@ -372,6 +357,22 @@ void datingAndMarry(BoyFriend *friend){
 }
 ```
 
+***
+
+### 通过多态提高代码的通用性
+
+函数定义时只依赖抽象的Friend类（marry函数为纯虚函数，行为由子类定义）
+
+对于男朋友、女朋友通用（还可以根据需要传入其它）
+
+可以把基类当做是能指向所有子类的万能类型
+
+```c++
+void datingAndMarry(Friend *friend){
+  friend->dating(); 
+  friend->marry();
+}
+```
 ***
 
 ### 两个设计原则
