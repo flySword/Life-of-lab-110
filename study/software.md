@@ -35,11 +35,11 @@
 
 ### 本地搜索
 
-  everything
+everything 文件搜索神器
 
-  [listary](http://www.listary.com/)
+[listary](http://www.listary.com/)
 
-  [DocFetcher](http://docfetcher.sourceforge.net/en/index.html)查本地文件内容,本地内容的google,但只能用于文本类型.
+[DocFetcher](http://docfetcher.sourceforge.net/en/index.html)查本地文件内容,本地内容的google,但只能用于文本类型.
 
 ### 文本比较
 
